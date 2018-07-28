@@ -1,0 +1,4 @@
+*.out
+*.ppm
+/.vscode/
+/**/.DS_Store
